@@ -1,0 +1,16 @@
+p {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", 'sans-serif';
+}
+div.second-element {
+    color: blue;
+    font-size: 36px;
+}
+p.third-element {
+    font-size: 24px;
+}
+div.fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
